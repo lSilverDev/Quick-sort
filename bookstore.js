@@ -1,4 +1,4 @@
-const listaLivros = [
+const listBooks = [
     {
       title: "Go",
       price: 45
@@ -44,3 +44,5 @@ const listaLivros = [
       price: 20
     },
   ]
+
+  module.exports = listBooks
